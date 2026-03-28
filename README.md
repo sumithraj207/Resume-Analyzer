@@ -100,4 +100,4 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
-Built by [Your Name] · 2026
+Built by I. Sumith Raj · 2026
